@@ -16,5 +16,5 @@ MedBot is a chatbot that integrates a large language model (LLM) with retrieval-
 - **`server.py`**  
   This file contains the code for the Streamlit application, serving as the front-end for the chatbot.
   
-  ## Demo
-  ![Screenshot 2024-09-27 095925](https://github.com/user-attachments/assets/988c3aa9-ddb2-49df-b1cb-76fd3efe4925)
+## Demo
+![Screenshot 2024-09-27 095925](https://github.com/user-attachments/assets/988c3aa9-ddb2-49df-b1cb-76fd3efe4925)
